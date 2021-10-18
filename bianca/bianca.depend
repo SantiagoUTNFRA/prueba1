@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1634436370 source:c:\users\irlid\documents\proyectos\bianca\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+
+1634436377 c:\users\irlid\documents\proyectos\bianca\arrayemployees.h
+
+1634436370 source:c:\users\irlid\documents\proyectos\bianca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+
